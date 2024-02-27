@@ -1,0 +1,3 @@
+o que se nota no text to speech é que dependendo do audio o texto nao é sincronizado corretamente
+agora quando usamos Real-time speech to text, ele marca a frase em que esta lendo ai marca corretamente a frase.
+ja no serviço de Speech Translation, alem de traduzir ele tambem gerou um audio com a voz selecionada, neste audio que usei de testes tem um nome de um personagem japones, este nome nao ficou legal tanto na transcrição quanto na tradução
